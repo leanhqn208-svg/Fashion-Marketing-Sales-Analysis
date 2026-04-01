@@ -2,14 +2,14 @@
 
 ## Table of Contents
 
-1. [📌 Background & Overview](#-background--overview)  
-2. [📂 Dataset Description & Data Structure](#-dataset-description--data-structure)  
+1. [📌  Overview](#-overview)  
+2. [📂 Dataset & Data Model](#-dataset-&-data-model)  
 3. [🧠 Design Thinking Process](#-design-thinking-process)  
 4. [📊 Key Insights & Visualizations](#-key-insights--visualizations)  
 5. [🔎 Final Conclusion & Recommendations](#-final-conclusion--recommendations)
 ---
 
-## 📌 Introduction
+## 📌 Overview
 
 ### Project Overview
 This project focuses on analyzing the business and marketing data of a multi-channel fashion retail and e-commerce enterprise.
