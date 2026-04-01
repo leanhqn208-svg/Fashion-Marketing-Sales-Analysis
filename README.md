@@ -2,12 +2,11 @@
 
 ## Table of Contents
 
-- [📌 Introduction](-introduction)
-- [📂 Dataset & Data Model](-dataset--data-model)
-- [🧠 Design Thinking Process](-design-thinking-process)
-- [📊 Key Insights & Visualizations  ](#-key-insight-visualizations)
-- [6. Installation & Usage](#6-installation--usage)
-
+1. [📌 Background & Overview](#-background--overview)  
+2. [📂 Dataset Description & Data Structure](#-dataset-description--data-structure)  
+3. [🧠 Design Thinking Process](#-design-thinking-process)  
+4. [📊 Key Insights & Visualizations](#-key-insights--visualizations)  
+5. [🔎 Final Conclusion & Recommendations](#-final-conclusion--recommendations)
 ---
 
 ## 📌 Introduction
@@ -110,4 +109,35 @@ To avoid overwhelming the users, I structured the dashboard into three distinct 
 ### 🔍 Dashboard Preview  
 
 #### 1️⃣ Dashboard 1 Preview  
-<img width="1078" height="602" alt="image" src="https://github.com/user-attachments/assets/d51ce5e3-4f89-42a8-b6c0-294e78a203db" />
+<img width="1148" height="637" alt="image" src="https://github.com/user-attachments/assets/43a0a99b-ff78-4d53-8a2a-488c5ea94057" />
+
+
+**Observation:** The campaign shows strong overall performance with an Ads Revenue of 3bn and a healthy ROAS of 7.67. However, the Weekly Profit Breakdown reveals a critical trend: while revenue remains high, profitability peaked in Week 2 (+623M) and crashed severely in Week 4 (-530M) and Week 5 (-605M). This indicates that rising ad costs or heavy discounting at the end of the month is eroding all previous gains.
+
+**Recommendation:** Immediately audit and cut low-performing campaigns in the final two weeks of the month to stop the profit bleed. Shift the 17% unspent budget (Utilization is only 83%) toward the top-performing SKU, Kino Dress 2, during its peak performance window to maximize overall margins.
+
+#### 2️⃣ Dashboard 2 Preview 
+<img width="1143" height="639" alt="image" src="https://github.com/user-attachments/assets/695003db-41ab-4279-8c95-24f3b176db76" />
+**Observation:** The funnel shows a big gap between Impressions (5.11M) and Clicks (0.04M), leading to a low CTR of 0.82%. The Scatter Plot shows that as we show ads more, the cost (CPM) goes up, making it more expensive to reach new people.
+
+**Recommendation:** Focus on testing new ad images to push the CTR above 1%. Spend more on the Váy Chiết Eo Ôm category (highest CTR 1.11% and ROAS 26.23) and stop spending on Chân Váy Tách Set due to its low performance (CTR 0.55%).
+
+#### 3️⃣ Dashboard 3 Preview  
+**Observation:** Performance is highly polarized across the inventory. Lisa Dress 5 and (G)Margnet Dress are exceptionally efficient with ROAS over 17.0, while Audrey Shirt 3 leads in total volume (311M Sales). However, the Weekly Profit Breakdown (Waterfall chart) confirms a net loss in the final two weeks, indicating that high-volume items like the Audrey series may be driving revenue at the expense of late-month margins.
+
+**Recommendation:** Prioritize budget for Lisa Dress 5 to exploit its high efficiency (43.67 ROAS). For lower-performing SKUs like Nalani 2 (high 22K CPC), stop active promotion and shift funds toward the "Tơ" and "Lanh" material categories, which currently contribute over 75% of total revenue.
+
+---
+
+## 🔎 Final Conclusion & Recommendations
+📌 Key Takeaways:
+
+* **Profit Loss:** Revenue is high (3bn), but profit dropped heavily in Week 4 & 5. The ads became too expensive at the end of the month.
+* **Winner vs Loser:** A few products like Lisa Dress 5 are very successful (43.67 ROAS), while others are just wasting the budget.
+* **Low Conversion:** High reach (5.11M views) but very few people actually buy (0.2%). There is a big gap between "seeing" and "buying."
+
+🚀 Key Actions:
+
+* **Save Profit:** Stop or reduce ad spend in the last 10 days of the month to protect the total profit.
+* **Focus on Stars:** Move money from low-performing items to top products (Lisa Dress 5) and best materials (Tơ, Lanh).
+* **Retargeting:** Use the leftover budget to show ads again to the 0.04M people who clicked but didn't buy yet.
