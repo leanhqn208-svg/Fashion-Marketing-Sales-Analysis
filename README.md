@@ -123,6 +123,7 @@ To avoid overwhelming the users, I structured the dashboard into three distinct 
 **Recommendation:** Focus on testing new ad images to push the CTR above 1%. Spend more on the Váy Chiết Eo Ôm category (highest CTR 1.11% and ROAS 26.23) and stop spending on Chân Váy Tách Set due to its low performance (CTR 0.55%).
 
 #### 3️⃣ Dashboard 3 Preview  
+<img width="1397" height="782" alt="image" src="https://github.com/user-attachments/assets/7545e404-6cce-4c27-a1cc-cb3d80cd1a82" />
 **Observation:** Performance is highly polarized across the inventory. Lisa Dress 5 and (G)Margnet Dress are exceptionally efficient with ROAS over 17.0, while Audrey Shirt 3 leads in total volume (311M Sales). However, the Weekly Profit Breakdown (Waterfall chart) confirms a net loss in the final two weeks, indicating that high-volume items like the Audrey series may be driving revenue at the expense of late-month margins.
 
 **Recommendation:** Prioritize budget for Lisa Dress 5 to exploit its high efficiency (43.67 ROAS). For lower-performing SKUs like Nalani 2 (high 22K CPC), stop active promotion and shift funds toward the "Tơ" and "Lanh" material categories, which currently contribute over 75% of total revenue.
